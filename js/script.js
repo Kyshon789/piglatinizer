@@ -17,12 +17,23 @@ $( document ).ready(function() {
 
 });
 
+function m (red){
+    var word = red.split(' ');
+    return red
 
-
+    
+}
 function ay(word) {
 	return word + "ay";
-}
 	
+	
+	
+for (var m = 0;m < ) 
+
+
+}
+
+
 
 // Create the wordToPigLatin function that takes a word as a parameter and returns a transfromed word. 
 
